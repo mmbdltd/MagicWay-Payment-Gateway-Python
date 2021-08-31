@@ -1,0 +1,6 @@
+Lib/
+Scripts/
+pyvenv.cfg
+requirements.txt
+.idea/
+
